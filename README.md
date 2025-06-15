@@ -7,8 +7,8 @@ Built with responsive UI, support for **light/dark themes**, and full orientatio
 
 ## 📱 App Preview
 
-> ![Light Mode](assets/light_mode)  
-> ![Dark Mode](assetss/dark_mode)
+> ![Light Mode](assets/light_mode/photo1.jpg)  
+> ![Dark Mode](assetss/dark_mode/photo1.jpg)
 
 ---
 
