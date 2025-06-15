@@ -129,7 +129,7 @@ class Chart extends StatelessWidget {
               .toList();
 
     return Container(
-      margin: const EdgeInsets.fromLTRB(12, 12, 12, 8),
+      margin: const EdgeInsets.fromLTRB(12, 1, 12, 8),
       padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 8),
       width: double.infinity,
       height: 220,
