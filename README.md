@@ -56,6 +56,16 @@ Built with responsive UI, support for **light/dark themes**, and full orientatio
 | **Material 3**| Modern UI components               |
 
 ---
+## 📦 Download
+
+👉 Click the button below to download the latest APK:
+
+<p align="center">
+  <a href="https://github.com/harishvicky-23/Expense-Tracker/build/app/outputs/apk/release/app-release.apk" download>
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK" />
+  </a>
+</p>
+
 
 ## 📄 License
 
