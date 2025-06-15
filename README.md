@@ -8,8 +8,14 @@ Built with responsive UI, support for **light/dark themes**, and full orientatio
 ## 📱 App Preview
 
 <p align="center">
-  <img src="assets/light_mode/photo1.jpg" alt="Light Mode" width="15%" />
-  <img src="assets/dark_mode/photo1.jpg" alt="Dark Mode" width="15%" />
+  <img src="assets/light_mode/photo1.jpg" alt="Light Mode" width="20%" />
+  <img src="assets/light_mode/photo2.jpg" alt="Light Mode" width="20%" />
+  <img src="assets/light_mode/photo3.jpg" alt="Light Mode" width="20%" />
+  <img src="assets/light_mode/photo4.jpg" alt="Light Mode" width="20%" />
+  <img src="assets/dark_mode/photo1.jpg" alt="Dark Mode" width="20%" />
+  <img src="assets/dark_mode/photo2.jpg" alt="Dark Mode" width="20%" />
+  <img src="assets/dark_mode/photo3.jpg" alt="Dark Mode" width="20%" />
+  <img src="assets/dark_mode/photo4.jpg" alt="Dark Mode" width="20%" />
 </p>
 
 ---
