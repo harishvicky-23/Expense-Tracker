@@ -7,9 +7,8 @@ Built with responsive UI, support for **light/dark themes**, and full orientatio
 
 ## 📱 App Preview
 
-> *(Add your screenshots or GIFs here)*  
-> ![Light Mode](screenshots/light_mode.png)  
-> ![Dark Mode](screenshots/dark_mode.png)
+> ![Light Mode](assets/light_mode)  
+> ![Dark Mode](assetss/dark_mode)
 
 ---
 
@@ -50,5 +49,4 @@ Built with responsive UI, support for **light/dark themes**, and full orientatio
 
 ---
 
-## 🗂️ App Structure
 
