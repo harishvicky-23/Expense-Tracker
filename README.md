@@ -1,16 +1,54 @@
-# expense_tracker
+# 💸 Expense Tracker App
 
-A new Flutter project.
+A sleek and adaptive **Flutter-based Expense Tracker** that helps you manage your daily expenses with ease.  
+Built with responsive UI, support for **light/dark themes**, and full orientation adaptability — this app is perfect for modern budgeting on the go.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Preview
 
-A few resources to get you started if this is your first Flutter project:
+> *(Add your screenshots or GIFs here)*  
+> ![Light Mode](screenshots/light_mode.png)  
+> ![Dark Mode](screenshots/dark_mode.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌟 Key Features
+
+- 🧾 **Track Expenses**  
+  Add, delete, and view your personal expenses with categorized inputs.
+
+- 🌈 **Theme Adaptive**  
+  Automatically switches between **light** and **dark** modes based on device theme.
+
+- 📊 **Visual Charts**  
+  Summarizes your spending via bar charts grouped by **category** or **payment type**.
+
+- 🧭 **Orientation Support**  
+  Works flawlessly in both **portrait** and **landscape** modes.
+
+- 📆 **Date Filtering & Formatting**  
+  Organizes expenses by date with localized formatting.
+
+- 🔐 **Undo Deletion**  
+  Accidentally removed an expense? Instantly restore with a single tap.
+
+- 📦 **Local JSON Persistence**  
+  Expenses are saved locally (e.g., using `shared_preferences` or `json_formatter`) to persist even after app restarts.
+
+---
+
+## 🧰 Built With
+
+| Tool          | Purpose                            |
+|---------------|------------------------------------|
+| **Flutter**   | Cross-platform mobile development  |
+| **Dart**      | Application logic                  |
+| **intl**      | Date formatting                    |
+| **uuid**      | Unique ID generation for expenses  |
+| **Material 3**| Modern UI components               |
+
+---
+
+## 🗂️ App Structure
+
