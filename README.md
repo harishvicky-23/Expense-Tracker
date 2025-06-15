@@ -61,10 +61,11 @@ Built with responsive UI, support for **light/dark themes**, and full orientatio
 👉 Click the button below to download the latest APK:
 
 <p align="center">
-  <a href="https://github.com/harishvicky-23/Expense-Tracker/build/app/outputs/apk/release/app-release.apk" download>
+  <a href="https://github.com/harishvicky-23/Expense-Tracker/releases/download/v1.0.0/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
 </p>
+
 
 
 ## 📄 License
